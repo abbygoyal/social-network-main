@@ -1,4 +1,4 @@
-<h1 align="center">Code Girls</h1>
+<h1 align="center">Social Network Site</h1>
 <div align="center">
 
 ![Demonstração](./src/img/gif-social-network.gif)
